@@ -1,1 +1,1 @@
-# Advanced-data-structure-templates
+### XCPC竞赛中常用的数据结构，包括Splay, 树套树，分块，莫队，树链剖分，动态树，DLX，后缀数组，后缀自动机，点分治，CDQ分治，点分树，仙人掌
